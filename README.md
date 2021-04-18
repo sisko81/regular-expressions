@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sisko81
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning html,css git and github
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me ...
 
 <!---
