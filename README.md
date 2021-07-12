@@ -1,6 +1,12 @@
+Hello,
+
+This is a interative form page where you can input your username, email address, password, telephone number and a slug.All input boxes turn green when the correct information is inserted,yellow when the form is incomplete or wrong characters are inserted.Javascript regular expressions makes this possible.
+
+
+
 - 👋 Hi, I’m @sisko81
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html,css git and github
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me ...
 
