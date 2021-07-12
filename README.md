@@ -1,6 +1,6 @@
 Hello,
 
-This is a interative form page where you can input your username, email address, password, telephone number and a slug.All input boxes turn green when the correct information is inserted,yellow when the form is incomplete or wrong characters are inserted.Javascript regular expressions makes this possible.
+This is a interactive form page where you can input your username, email address, password, telephone number and a slug.All input boxes turn green when the correct information is inserted,yellow when the form is incomplete or wrong characters are inserted.Javascript regular expressions makes this possible.
 
 
 
